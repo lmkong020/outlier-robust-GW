@@ -4,7 +4,6 @@ This is a Python implementation of
 
 >  Outlier-Robust Gromov-Wasserstein for Graph Data
 
-We will publish it after the review process.
 
 ## Partial Shape Correspondence (Section 4.1)
 
