@@ -5,12 +5,6 @@ This is a Python implementation of
 >  Outlier-Robust Gromov-Wasserstein for Graph Data
 
 
-## Partial Shape Correspondence (Section 4.1)
-
-```python
-python partial_shape_correspondence.py
-```
-
 Subgraph Alignment Experiments (Section 4.2)
 --------------------------------
 
