@@ -2,8 +2,7 @@
 
 This is a Python implementation of 
 
->  Outlier-Robust Gromov-Wasserstein for Graph Data
-
+>[Outlier-Robust Gromov-Wasserstein for Graph Data](https://arxiv.org/abs/2302.04610)
 
 Subgraph Alignment Experiments (Section 4.2)
 --------------------------------
